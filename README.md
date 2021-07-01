@@ -28,6 +28,7 @@ Your organization uses a mix of Microsoft based products and open source tools.
 - Using PowerBI, you are expected to create stunning visual reports on items 1-4. Your organization has predefined PowerBI templates for its reports developed by a consultant. The consultant refers you to the link below to help you get inspiration on captivating templates... https://youtu.be/KZDFw_G-Rj8
  
 ### Deliverables
-- Create stunning visualisations which will guide the management team in making optimal decisions for items 1-4 in the brief.
-- Write commentary advising management on the optimal decisions based on your dashboards/reports.
-- You will be presenting your dashboards and commentary to the company's management in a week.
+- Create stunning visualisations which will guide the management team in making optimal decisions for items 1-4 in the brief. Complete this in PowerBI
+- Write commentary advising management on the optimal decisions based on your dashboards/reports. Complete the commentary in a 1-2 page Powerpoint document.
+- Send your submissions to submissions@datajedi.io within a week. You will be presenting your dashboards and commentary in an interview after submission. Interview timeline will be communicated.
+
